@@ -1,0 +1,10 @@
+2023-11-28 20:51:52,204 INFO  [Log] Application opened 
+2023-11-28 20:51:53,179 INFO  [Log] Application login 
+2023-11-28 20:51:53,252 INFO  [Log] Application logout 
+2023-11-28 20:51:53,383 INFO  [Log] Application closed 
+2023-11-28 20:51:54,895 INFO  [Log] Application opened 
+2023-11-28 20:51:55,926 INFO  [Log] Application login 
+2023-11-28 20:51:55,981 INFO  [Log] Application frame 
+2023-11-28 20:51:58,826 INFO  [Log] Application emp add 
+2023-11-28 20:51:58,832 INFO  [Log] Application frame exit 
+2023-11-28 20:51:58,958 INFO  [Log] Application closed 
